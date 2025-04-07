@@ -2,10 +2,10 @@
     "theme_color": "#482187",
     "background_color": "#482187",
     "display": "standalone",
-    "scope": "https://mattwood86.github.io/runningconverter/",
-    "start_url": "https://mattwood86.github.io/runningconverter/",
-    "name": "Running Converter",
-    "short_name": "Running Converter",
+    "scope": "https://mattwood86.github.io/fitnessconverter/",
+    "start_url": "https://mattwood86.github.io/fitnessconverter/",
+    "name": "Fitness Converter",
+    "short_name": "Fitness Converter",
   "icons": [
     {
       "src": "icon-192x192.png",
@@ -28,7 +28,7 @@
       "type": "image/png"
     }
   ],
-  "description": "App for converting between running pace and speed",
+  "description": "App for converting between various fitness related metrics",
   "screenshots": [
     {
 	"src": "screenshot-mobile.png",
